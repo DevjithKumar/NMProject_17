@@ -1,5 +1,5 @@
 # NMProject_17
-Email Spam Detection using NLP & Python:
+Email Spam Detection using NLP:
 
 This project demonstrates how to detect spam emails using **Natural Language Processing (NLP)** and **Machine Learning** techniques in Python. The classifier is built using the **Naive Bayes** algorithm and trained on a dataset of labeled SMS messages.
 
